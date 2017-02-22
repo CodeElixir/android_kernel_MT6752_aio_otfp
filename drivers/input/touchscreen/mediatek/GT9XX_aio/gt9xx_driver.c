@@ -10,10 +10,6 @@
 #include <linux/sensors_io.h>
 #endif
 
-#ifdef CONFIG_POCKETMOD
-#include <linux/pocket_mod.h>
-#endif
-
 #ifdef CONFIG_TOUCHSCREEN_DOUBLETAP2WAKE
 #include <linux/input/doubletap2wake.h>
 #endif
