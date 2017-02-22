@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/mach/mt6752/aio_otfp_m/leds/mt65xx/built-in.o :=  aarch64-linux-android-ld -EL    -r -o drivers/misc/mediatek/mach/mt6752/aio_otfp_m/leds/mt65xx/built-in.o drivers/misc/mediatek/mach/mt6752/aio_otfp_m/leds/mt65xx/cust_leds.o 
